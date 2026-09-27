@@ -1,0 +1,9 @@
+001,John Doe,1990-01-01,85,90
+002,Jane Smith,invalid_date,75,80,85,90
+003,Mark Taylor,1985-08-23,55,67,65,70
+004,Stephan Surname,1985-08-23,55,67,65
+005,Miss Sofia McLarnoon,1985-08-23,55,something,65
+006,John Huilaone,1990-01-01,78,52
+007,John Huilatwo,1990-01-01,100,100
+008,John Huilathree,1990-01,85,90
+001,John Doe,1990-01-01,hui,90
